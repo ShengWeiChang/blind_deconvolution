@@ -3,7 +3,7 @@
 The objective of this project is to review the paper, ”BlindDeconvolution Using Convex Programming”, by Ahmed, Recht, and Romberg. I reproduce the experiment, implementing convex optimization to recover two signals given the output of their convolution. It is an important topic to recover two vectors from their convolution. If we receive some convolution signal, we can use this technique to separate the original two signals. An example of its application is ”Image Deblurring” Given a blurring picture, if we can assume that the blurring picture is the convolution of a picture and another signal, then we can use this technique to recover the original picture from the blurring picture.
 
 ## Project Report
-[Sheng-Wei Chang. "Blind Deconvolution" 08 Jun. 2020. ECE 273, UCSD, Student Paper](https://github.com/ShengWeiChang/blind_deconvolution/blob/master/blind_deconvolution.pdf)
+[Sheng-Wei Chang. "Blind Deconvolution" 08 Jun. 2020. ECE 273, UCSD, Student Paper](/blind_deconvolution.pdf)
 
 ## Numerical Simulation: Phase Transitions
 This sumulation shows the effectiveness of the reconstruction algorithm for the blind deconvolution of vectors **w** and **x**.
