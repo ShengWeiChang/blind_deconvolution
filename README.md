@@ -36,13 +36,13 @@ This sumulation shows the effectiveness of the reconstruction algorithm for the 
 Choose **L** as 100, **K** and **N** from 4 to 50 with step as 2 to find the success rates. In Fig. 1. **w** is a generic sparse vector. Its entries are chosen randomly. In Fig. 2. **w** is a generic short vector whose first **K** terms are nonzero and chosen randomly.
 
 <p float="left">
-  <img src="/Result/(a100).png" width="400">
-  <img src="/Result/(b100).png" width="400">
+  <img src="/Result/a100.png" width="400">
+  <img src="/Result/b100.png" width="400">
 </p>
 
 Choose **L** as 60, **K** and **N** from 2 to 40 without skipping to find the success rates. In Fig. 3. **w** is a generic sparse vector. Its entries are chosen randomly. In Fig. 4. **w** is a generic short vector whose first **K** terms are nonzero and chosen randomly.
 
 <p float="left">
-  <img src="/Result/(a60).png" width="400">
-  <img src="/Result/(b60).png" width="400">
+  <img src="/Result/a60.png" width="400">
+  <img src="/Result/b60.png" width="400">
 </p>
